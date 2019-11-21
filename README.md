@@ -24,6 +24,9 @@ pandas ,numpy,seaborn,matplotlib,sqlalchemy,statsmodels.formula.api
 Database :
 Mysql,mysqlWorkbench
 
+##Check word file named "BI_Architecture_And_pipeline" -> Q.7
+
+
 
  
  
